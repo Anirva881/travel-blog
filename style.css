@@ -1,0 +1,297 @@
+#space{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ul li{
+    margin-right: 25px;
+    display: block;
+
+
+}
+h1{
+   
+    margin-top: 90px ;
+    margin-left: 180px;
+    font-size: 50px;
+  }
+  .para{
+    color: white;
+    font-family: "Manrope", sans-serif;
+    font-size: 30px;
+
+    margin-left: 180px;
+    
+  }
+  #subscribe{
+    margin-left: 180px;
+    background-color: green;
+    
+  }
+  #bggreen{
+    background-color: green;
+    margin-top: 60px;
+  }
+  #greenform{
+    color: white;
+    margin-left: 100px;
+    justify-content: space-around;
+    padding: 50px;
+
+  }
+  .form{
+    margin-top: 50px;
+    margin-right: 50px;
+  }
+
+  #traveladvice{
+    color: rgb(133, 122, 122);
+    font-family: "Raleway", sans-serif;
+    padding: 51px;
+  }
+  #picpic{
+    margin-top: 1px;
+    margin-left: 150px;
+    
+  }
+  #countries{
+    font-family: "Lilita One", sans-serif;
+    justify-content: space-around;
+  }
+  #syria{
+    background-image: url(https://th.bing.com/th/id/OIP.tLbtDvNl0_2fJt9cPvdzhgHaFU?rs=1&pid=ImgDetMain);
+    height: 300px;
+    text-align: center;
+    padding: 140px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 40px;
+    
+  }
+  #pakistan{
+    background-image: url(https://images.unsplash.com/photo-1550586678-f7225f03c44b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFraXN0YW58ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80);
+    height: 300px;
+    text-align: center;
+    padding: 140px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 40px;
+
+  }
+  #kyg{
+    background-image: url(https://i0.wp.com/landlopers.com/wp-content/uploads/2017/08/35395188583_92144c47c7_k.jpg?fit=2048%2C1356&ssl=1);
+    height: 300px;
+    width: 430px;
+    text-align: center;
+    padding: 140px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 30px;
+    
+  }
+  #iraq{
+    background-image: url(https://th.bing.com/th/id/R.39d472524ba9d6ce86a4ecd1bfb619b1?rik=ANGKvRBj%2bB0h6w&riu=http%3a%2f%2f1.bp.blogspot.com%2f-B1weI4Hvf3o%2fVZqrNKdzbSI%2fAAAAAAAADDc%2fzFOzJEiPYEo%2fs1600%2fbaghdad-mosque_1024x768.jpg&ehk=NNuKCfELsByibz%2b94h%2bqFvCpGMS8SnJVuclrh0yX3Ww%3d&risl=&pid=ImgRaw&r=0);
+    height: 300px;
+    width: 470px;
+    text-align: center;
+    padding: 140px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 30px;
+    
+    
+
+  }
+  #mau{
+    background-image: url(https://th.bing.com/th/id/OIP.B_KDIklQ8Ek25MPEGIs7PQHaEy?rs=1&pid=ImgDetMain);
+    height: 300px;
+    width: 459px;
+    text-align: center;
+    padding: 140px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 30px;
+    
+    
+
+  }
+
+ 
+  #mali {
+    background-image: url(https://img.ev.mu/images/portfolio/pays/143/1605x1070/854666.jpg);
+  height: 300px;
+  width: 450px;   
+  text-align: center;
+  padding: 140px;
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 30px;
+  
+
+}
+
+#erit {
+  background-image: url(https://th.bing.com/th/id/OIP.e6o3vyOFYZSMCSwYkojsPQHaE8?w=900&h=600&rs=1&pid=ImgDetMain);
+height: 300px;
+width: 455px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 30px;
+
+
+}
+
+#afga {
+  background-image: url(https://th.bing.com/th/id/OIP.duWCwsdvaz6YRFgSGuW33QHaFK?rs=1&pid=ImgDetMain);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 30px;
+
+
+}
+
+#eg {
+  background-image: url(https://th.bing.com/th/id/OIP.7H3WtNnfdBJQdIWPzKz9VwHaE7?rs=1&pid=ImgDetMain);
+height: 300px;
+width: 455px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 30px;
+
+
+}
+
+#join{
+  font-family: "Archivo Black", sans-serif;
+  font-size: 45px;
+}
+
+#parasy{
+  font-size: 27px;
+} 
+#radii{
+  border-radius: 50px;
+
+} 
+
+#cen {
+  background-image: url(https://th.bing.com/th/id/OIP.CHuor0fneoRvEW8fZOIcUAHaFf?rs=1&pid=ImgDetMain);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 30px;
+}
+
+#horn {
+  background-image: url(https://th.bing.com/th/id/OIP.07sI58goCVjhf6stxr1eXgHaE7?rs=1&pid=ImgDetMain);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 30px;
+}
+
+#midd {
+  background-image: url(https://www.apogeephoto.com/wp-content/uploads/2016/06/Photo08-yemeni-woman-traditional-clothes.jpg);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 30px;
+}
+#sub
+{
+  font-size: 28px;
+}
+#up{
+  font-size: 25px;
+}
+#one {
+  background-image: url(https://againstthecompass.com/wp-content/uploads/2020/03/eritrea.jpg);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 16px;
+
+}
+
+#two {
+  background-image: url(https://againstthecompass.com/wp-content/uploads/2024/08/Svalbard-travel-guide.jpg);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 16px;
+
+}
+
+#three {
+  background-image: url(https://againstthecompass.com/wp-content/uploads/2023/06/Afghanistan-travel-guide.jpg);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 16px;
+
+}
+
+#four {
+  background-image: url(https://th.bing.com/th/id/OIP.-EC4QKczkGWANV0p2wLX9wAAAA?rs=1&pid=ImgDetMain);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 16px;
+
+}
+
+#five {
+  background-image: url(https://i.kinja-img.com/gawker-media/image/upload/s--yoDiL6IE--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/187z16644mwihjpg.jpg);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 16px;
+
+}
+
+#six {
+  background-image: url(https://th.bing.com/th/id/OIP.51jmUeRz9zIe-MyLOE4zIwHaEK?rs=1&pid=ImgDetMain);
+height: 300px;
+width: 445px;   
+text-align: center;
+padding: 140px;
+background-repeat: no-repeat;
+color: white;
+font-size: 16px;
+
+}
+
+
+
